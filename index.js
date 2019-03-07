@@ -1,4 +1,4 @@
 // Write your code in this file!
 let currentUser = 'Context.it'
 let welcomeMessage = 'Context.it'
-const welcomeMessage = 'Welcome to '
+const welcomeMessage = 'Welcome to Flatbook'
